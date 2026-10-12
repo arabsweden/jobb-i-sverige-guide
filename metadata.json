@@ -1,0 +1,6 @@
+{
+  "name": "دليل العمل في السويد | Jobb i Sverige Guide",
+  "description": "منصة عربية شاملة للبحث عن الوظائف في السويد، تحليل الإعلانات، إنشاء السيرة الذاتية السويدية، خطاب التقديم، مدرب المقابلات، ومتابعة الطلبات.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
